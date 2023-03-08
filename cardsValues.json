@@ -2,7 +2,7 @@
 	{
 		"iClass": "fa-solid fa-angle-up",
 		"h2Text": "Online HTML-emails",
-		"imgSrc": "../assets/emails.jpg",
+		"imgSrc": "https://pavel-gs.github.io/testJson/emails.jpg",
 		"imgAlt": "project thumbnail",
 		"pText": "Send HTML-styled emails from any device with this online app. It is pre-built for quotes, proposals, work-orders, etc...",
 		"tipWeb": "published site",
@@ -26,7 +26,7 @@
 	{
 		"iClass": "fa-solid fa-angle-up",
 		"h2Text": "A landing page",
-		"imgSrc": "../assets/landing.jpg",
+		"imgSrc": "https://pavel-gs.github.io/testJson/landing.jpg",
 		"imgAlt": "project thumbnail",
 		"pText": "This is a simple React app - a one-page website for a company or a proprietor. Media-queries are set for all sizes.",
 		"tipWeb": "published site",
@@ -50,7 +50,7 @@
 	{
 		"iClass": "fa-solid fa-angle-up",
 		"h2Text": "This portfolio",
-		"imgSrc": "../assets/this.jpg",
+		"imgSrc": "https://pavel-gs.github.io/testJson/this.jpg",
 		"imgAlt": "project thumbnail",
 		"pText": "This portfolio is made with React, also utilizing other technologies. Hover - to read more.",
 		"tipWeb": "",
