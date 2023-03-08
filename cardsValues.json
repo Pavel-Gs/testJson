@@ -21,7 +21,7 @@
 		"iCSSClass": "fa-brands fa-css3-alt",
 		"tipHTML": "tables - for HTML-emails",
 		"iHTMLClass": "fa-solid fa-code",
-		"id": "crypto.randomUUID()"
+		"id": "1"
 	},
 	{
 		"iClass": "fa-solid fa-angle-up",
@@ -45,7 +45,7 @@
 		"iCSSClass": "",
 		"tipHTML": "",
 		"iHTMLClass": "",
-		"id": "crypto.randomUUID()"
+		"id": "2"
 	},
 	{
 		"iClass": "fa-solid fa-angle-up",
@@ -69,6 +69,6 @@
 		"iCSSClass": "",
 		"tipHTML": "",
 		"iHTMLClass": "",
-		"id": "crypto.randomUUID()"
+		"id": "3"
 	}
 ]
